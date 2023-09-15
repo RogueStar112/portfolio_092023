@@ -1,0 +1,17 @@
+body {
+    background-color: #924444;
+}
+
+#navbar {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.align-right {
+    float: right;
+}
+
+.font-montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
